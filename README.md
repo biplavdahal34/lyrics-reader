@@ -14,9 +14,9 @@ venv\Scripts\activate
 
 ## TO USE THE APP:
 
-1. RUN:
-    python lyrics.py
-    YOUR INPUT : *song name*, *artist name* ("caution : use a comma "," in between song name and artist name and make sure the spelling is exact")
+1. RUN: python lyrics.py 
+
+2. YOUR INPUT : *song name*, *artist name* ("caution : use a comma "," in between song name and artist name and make sure the spelling is exact")
 
 THE LYRICS SHOULD START APPEARNING
 
